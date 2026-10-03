@@ -1,33 +1,33 @@
 Architectures: iphoneos-arm64
 Codename: ios
 Components: main
-Date: Sat, 03 Oct 2026 16:42:28 +0000
+Date: Sat, 03 Oct 2026 16:46:23 +0000
 Description: PowTouch packages
 Label: PowTouch
 Origin: PowTouch
 Suite: stable
 Version: 1.0
 MD5Sum:
- d35ba72631c0bf843fb39f55d690fa0e             3280 Packages
- 639b256d00cd3723514fc8c62e84ac59             1097 Packages.bz2
- 83182c9a545b3489d99fa0ac8c2378af              887 Packages.gz
- 9a105bf6a474e97f25656ff4f970db1e              841 Packages.zst
- dd8ca654cd1bd1701cc41e2bf62e5dea             2140 Release
+ 1f3b27dd1ac409097c86af517a051464             3280 Packages
+ e9eb092d3076ae967b6443d4a90dac4c             1100 Packages.bz2
+ cfa36a9bb7e612b697450490888b0092              885 Packages.gz
+ 65c4c116478bfeb400ff6637b8ee0547              839 Packages.zst
+ 2ce35fff06c0b359ac216801b3a8d19c             2140 Release
 SHA1:
- 2777d23387240567ff65fcfd5b03181f150c5273             3280 Packages
- 67406b62eb1e5ed92aaeccd4ce2c4c9138a02f17             1097 Packages.bz2
- 63a30ebf7b635bfbb9db286ea822e7c845ed6ba4              887 Packages.gz
- b5d61ea0840850ba72000e64f4255cdee761d27d              841 Packages.zst
- f7b2f688ddbdbcab1fb048b488b8cbae5e71e7dd             2140 Release
+ f4259dead66aad7316aa6acac4720ca5f66d4f16             3280 Packages
+ 387f885d5833cf3bab2ed515bd62f8dd69cba303             1100 Packages.bz2
+ eedf407e688a774ed0d716a74b57a9fee29d2273              885 Packages.gz
+ 0b3174dadca6e6fdb9a774ba57e761d51bbdb951              839 Packages.zst
+ 029a5662215dd4e51ac2273cb9e226d5a5ddd9d2             2140 Release
 SHA256:
- 71b38104f0bffcd3a28fa97e265b0076ff8e38a18dffd4c06de4b42c95b24437             3280 Packages
- 9cfd024c2e950c2e279793eeb44fd4e2db49f937008be98e924cbb1e4d817420             1097 Packages.bz2
- 6098d3a222cd0a81bf89f2f576d8c6c739cb87145ea37139f365c99fb0d8056c              887 Packages.gz
- ee888f7dd8fcfce35a0791af8a39c41af0ccd4b14d14724060e25e013afd2a4d              841 Packages.zst
- d93a30b24c0cb358a8022d2ff96bffd1316e19cd0a08693318b07f7c8d3bc79b             2140 Release
+ cd8ff82b4429663e97293b76a0cbe95c9b2de8048cd59cb8ccfc8ae37b1daba6             3280 Packages
+ 7a79a1b826e48cc853f0c91134dde206dd0529aae3ddd0c948271c0e2734a35f             1100 Packages.bz2
+ 64a7b30f2c2f8aad726fbe1063ddaa5f5b807c62c0cb624cbffa5d309c773a1e              885 Packages.gz
+ 46611e18b992cd836e840cf36e9e3e783bf5be8ae7a14907b00be9439d6ac36f              839 Packages.zst
+ 437dcf03a908c49be8cfc1bfa6d8eb47ec958f6aee41afa684e8af73fdc08f58             2140 Release
 SHA512:
- 10b12363cc8dc42e73fe17aed73c420f04dbb39bba152a6d22fe6a82d436179c15b238cad4bdd71eb705367d6114bfca9b4375b751dddc1b6d8ab520c4aac5e4             3280 Packages
- 72c07c05dd861a679af29e3cf0bb0a651c60a2822015a2a21d4805aaf55df9067ef2d13c39896b98be078d2ce1969c0f01880d14b6309d6fb9fce37028de8840             1097 Packages.bz2
- 173cc03696d75447ee7674848a8349bda1051de415b71b0bb0b352ea068fee5929548890d615208a5d361414490c2a141c9e680933aacaec315b1393a8ea9266              887 Packages.gz
- 9a4caae4061fd63ce22628d3ad427aa24b6982d128fb90ed4327953b6a899faaa64da7b0fdbc7a1c9b8e6e3b23efcbfbea8b5b6e4037a460e33cbeb6f14d5336              841 Packages.zst
- 636a0e9f7a2eb860056c256492ba9f5349939667b7894e73cee4ac7b1af10d5530aa62a78588554e390d4ea937ec0b127cccff7c1afc33a0d2e2f16b03fb6255             2140 Release
+ 34242bd5e341e01a528e2f3a5ff8999413e925bf22e2427a15b68107e542989a945051ee8bdf849a2d82cfa5f607be8c2d8e31d79a37595d4ea0cb84466ada05             3280 Packages
+ cc494fad75a7be4682de3834763800eecbb780773faa5aaa0d3e8509e976f940efcf14538a6678951d004e10939d0b8c110b4b324f61635ba025e27b9fd392e0             1100 Packages.bz2
+ fe860a11735a462fafe31150baf1f2efa943ecc6822dd238ba9fc46ba848c064054e17ea1399e2d0bb084a69cfb62e0201cb042a6a3721e043b2af4ba1cb1a77              885 Packages.gz
+ eef144cbac362904272cee1dcacd24a798c931220c0048c603984863d2da2127ef2ac59126fbafb69c9c77d327cd0fc1c3f14474a22cdc075637265c192026e5              839 Packages.zst
+ 6b231adf13cfe1aeb731fce3c3dbd4c70163944eed11c753862843181824af629dd7131eb07d64c4f11ad1df24b679cb31475981cbfda9370afd5f8988d497a9             2140 Release
