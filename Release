@@ -1,0 +1,29 @@
+Architectures: iphoneos-arm64
+Codename: ios
+Components: main
+Date: Sat, 03 Oct 2026 08:26:11 +0000
+Description: PowTouch packages
+Label: PowTouch
+Origin: PowTouch
+Suite: stable
+Version: 1.0
+MD5Sum:
+ 7578c80013d85944cb311ff1048fd9de              656 Packages
+ fe707e8f25df508e15fb983959c45d2e              496 Packages.bz2
+ de9b5ff4c1939601ad90e1683621d4b4              448 Packages.gz
+ d961e4614c610d29fe2f181fe8faefd0              439 Packages.zst
+SHA1:
+ 3ac47efbdd1194d5e3d8b9933a1be00d332bc3e4              656 Packages
+ ca80e993e4dc749d9e56e79f40acb932e9a726fc              496 Packages.bz2
+ 5344ff345c2f0a93abd37f3ea9754b406ee1a569              448 Packages.gz
+ 89bb6d9403875221459230a56b8e03972aa5e098              439 Packages.zst
+SHA256:
+ 382591031eeb854cd7fad127385e5a877c1c4ec558ebbc59dc882a544ea6e84d              656 Packages
+ f35ef9c276eab35f36f5bd076af3d5b17878448d3d2e749cc00695cda47f90c4              496 Packages.bz2
+ 97da173ed1d60eed0dd4871e583abe5ff4157c3e21ae1b4cea796fd599351353              448 Packages.gz
+ 8bb9855d4afc48fd06a639905bd4c553d1573b4dd3510f130656c3f73ed84fe5              439 Packages.zst
+SHA512:
+ 3be2f33d135ae1b8dfa48206eb79c1883957c8bdd7439756c5221cdbf9d84da30a6672deda5dab2a19d1a0c4bdc39c7e5da198c98bac4e60d27a19fefbbb6274              656 Packages
+ f37c8938d056893587f64af5a8c9b8ff213917c7bbf9ae43893aff27d00cdee80e52dc7335c65d5c2fcfefed0add53b485d3c40b03f3cf5aa6ef54e672d5949c              496 Packages.bz2
+ da84b2b8fb41fdfdad38cf72cf9364424c93d73aeb21fbc184641e1bf767035464d2524bc3bc73188c1c9f538841e6e86da4a3113e548b57a0809dd6549395a0              448 Packages.gz
+ 6ef347fe92f98068b4d378f98c3e3898d2bb376bd7b59e9c065fd9f4da4daea8b0bad29868ba17d5ee7a88aa840bb1cd8093eb760afb3e6bbaad1c8f6c176092              439 Packages.zst
