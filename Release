@@ -1,29 +1,33 @@
 Architectures: iphoneos-arm64
 Codename: ios
 Components: main
-Date: Sat, 03 Oct 2026 08:26:11 +0000
+Date: Sat, 03 Oct 2026 09:22:29 +0000
 Description: PowTouch packages
 Label: PowTouch
 Origin: PowTouch
 Suite: stable
 Version: 1.0
 MD5Sum:
- 7578c80013d85944cb311ff1048fd9de              656 Packages
- fe707e8f25df508e15fb983959c45d2e              496 Packages.bz2
- de9b5ff4c1939601ad90e1683621d4b4              448 Packages.gz
- d961e4614c610d29fe2f181fe8faefd0              439 Packages.zst
+ 88a1342a5a3fc7ce6087e30e964a7219             1312 Packages
+ 1f8bfa7509c95d3a522672bc7a8f1894              659 Packages.bz2
+ f8947817a31a0f95002bbd3af13abf4c              565 Packages.gz
+ 1a6218279c793b718d4fe69364f1cf2e              548 Packages.zst
+ 9015e2a196e556e858c1710027f954e1             1768 Release
 SHA1:
- 3ac47efbdd1194d5e3d8b9933a1be00d332bc3e4              656 Packages
- ca80e993e4dc749d9e56e79f40acb932e9a726fc              496 Packages.bz2
- 5344ff345c2f0a93abd37f3ea9754b406ee1a569              448 Packages.gz
- 89bb6d9403875221459230a56b8e03972aa5e098              439 Packages.zst
+ 8ba97fce35b613c5a9b974649f1d4da11adad6c0             1312 Packages
+ 8105a581f6c0253fd4527c8310ef109c09722e46              659 Packages.bz2
+ 85f39578a9ef56e5927bd6350dcb847f3a44de47              565 Packages.gz
+ d7010b898080aa4a8b391758ab4ca3620a0e9283              548 Packages.zst
+ 40dff940f828b22bc8a7c86af8e1176ecdfce704             1768 Release
 SHA256:
- 382591031eeb854cd7fad127385e5a877c1c4ec558ebbc59dc882a544ea6e84d              656 Packages
- f35ef9c276eab35f36f5bd076af3d5b17878448d3d2e749cc00695cda47f90c4              496 Packages.bz2
- 97da173ed1d60eed0dd4871e583abe5ff4157c3e21ae1b4cea796fd599351353              448 Packages.gz
- 8bb9855d4afc48fd06a639905bd4c553d1573b4dd3510f130656c3f73ed84fe5              439 Packages.zst
+ 56ca4a961cf338ab7eabe495bc171d4359d5c4333f6f536f38ee034d5e458d45             1312 Packages
+ f8a0eb10b024a563415f3594f07a4919c8edec99f52cbf4adca138fa21acd699              659 Packages.bz2
+ 5b549d843c600a59e435cc1360d478d64324a1e8fbda22bf918cbadb0b212793              565 Packages.gz
+ 494b6ef3ca19c139f2c2f542b3639a8d0fa0610d81deec3af47c6a5030d84344              548 Packages.zst
+ 6034390d88f266acb8b278e49b51b83be6b48b1411996eb3e18759aa3cc85e7e             1768 Release
 SHA512:
- 3be2f33d135ae1b8dfa48206eb79c1883957c8bdd7439756c5221cdbf9d84da30a6672deda5dab2a19d1a0c4bdc39c7e5da198c98bac4e60d27a19fefbbb6274              656 Packages
- f37c8938d056893587f64af5a8c9b8ff213917c7bbf9ae43893aff27d00cdee80e52dc7335c65d5c2fcfefed0add53b485d3c40b03f3cf5aa6ef54e672d5949c              496 Packages.bz2
- da84b2b8fb41fdfdad38cf72cf9364424c93d73aeb21fbc184641e1bf767035464d2524bc3bc73188c1c9f538841e6e86da4a3113e548b57a0809dd6549395a0              448 Packages.gz
- 6ef347fe92f98068b4d378f98c3e3898d2bb376bd7b59e9c065fd9f4da4daea8b0bad29868ba17d5ee7a88aa840bb1cd8093eb760afb3e6bbaad1c8f6c176092              439 Packages.zst
+ 5003e21caa82f0858d207e5c99a68b31086642947cca48a3d0ab39c76f04798ee2dc4c782cc2cb9b0139c092a7fa3e5e13209187ef0f81371724dde251032aa2             1312 Packages
+ 259925e7e03c61087977a4ce4f7850eb935eb83ec8cf0e06b9c0eaea21c26d97a07816b11c35ae07d0d64ffd2352ccae46c43625ff100a6a59c1f0dbffb458cc              659 Packages.bz2
+ 85afd4d7d603ab0531183518ed0a80c5e09aaf5a8a59f6a3bf95826e2a597dbb1f952fa2f2829fd28c7c8000838fab7f1a8f7189fe3c36dfed9e598dc958ed9f              565 Packages.gz
+ b631ea1a44b60491d5ec637ceac9018c028fd6f25db68dd81d1715322fb73a2679cbddbffaed08600ef24799d768c88f99af8f38d3f1158021324711c75cb761              548 Packages.zst
+ 9cf4f95b93dd0287578edd53c9b6884605959ac5adf9d6917f7a19c1108a3ea63e9ff6e7c4a55670b5db9f0fd174c41802bad168ddeb439bfe0291fcf113e0e3             1768 Release
