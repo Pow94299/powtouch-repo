@@ -1,23 +1,4 @@
 Package: com.powtouch.ioscontrol
-Version: 0.1.7-202610112319
-Architecture: iphoneos-arm64
-Maintainer: mrandaklak@gmail.com
-Installed-Size: 4048
-Depends: mobilesubstrate | ellekit, firmware (>= 15.0)
-Conflicts: com.zjx.ioscontrol
-Replaces: com.zjx.ioscontrol
-Filename: debs/com.powtouch.ioscontrol_0.1.7-202610112319_iphoneos-arm64.deb
-Size: 2912368
-MD5sum: 2f7147ffde9180b76303d5aea24e8f22
-SHA1: 9ab50e2d538eaaf19ab9e4ede6856686094173dc
-SHA256: e1d84d8e34548d149d4a85942ec2d23de3b289976070ed590b9c6e7d06f53fbc
-Section: Utilities
-Description: PowTouch Main Application (rootless, iOS 15-16)
-Tag: role::developer
-Author: mrandaklak@gmail.com
-Name: PowTouch
-
-Package: com.powtouch.ioscontrol
 Version: 0.1.7-202610112327
 Architecture: iphoneos-arm64
 Maintainer: mrandaklak@gmail.com
@@ -87,6 +68,25 @@ Size: 2918188
 MD5sum: f716382c55a17dae301a07927f54e235
 SHA1: 03f962418046e0a3069524381e859a15428927ac
 SHA256: 2ba1a6126497fe3341a869158e5d438b860dc130d2f80239e31a8a5a5aefdaed
+Section: Utilities
+Description: PowTouch Main Application (rootless, iOS 15-16)
+Tag: role::developer
+Author: mrandaklak@gmail.com
+Name: PowTouch
+
+Package: com.powtouch.ioscontrol
+Version: 0.1.7-202610182231
+Architecture: iphoneos-arm64
+Maintainer: mrandaklak@gmail.com
+Installed-Size: 4048
+Depends: mobilesubstrate | ellekit, firmware (>= 15.0)
+Conflicts: com.zjx.ioscontrol
+Replaces: com.zjx.ioscontrol
+Filename: debs/com.powtouch.ioscontrol_0.1.7-202610182231_iphoneos-arm64.deb
+Size: 2912088
+MD5sum: fb12f57e2799fa250e3faa6a0058b648
+SHA1: 22e38a4fbd2b748ba4335380cbe286bd722cdb3c
+SHA256: 3b4c45c2dfc6df0a4847851abcb9e7ecc7f7df1a7773a38dfc8aae1243827704
 Section: Utilities
 Description: PowTouch Main Application (rootless, iOS 15-16)
 Tag: role::developer
